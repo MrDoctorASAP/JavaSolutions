@@ -30,6 +30,6 @@ public static String[] ReadFile(String filePath) {
 		}
 		
     return content;
-	}
+}
   
   
